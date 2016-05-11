@@ -1,0 +1,28 @@
+*** RUNNING PRE-TURNIN TESTS ON 2015-12-11 11:06:36 CST ***
+* Language is Java
+
+* Running test #1
+* Arguments: pqtest 1
++++ PASSED test #1
+
+* Running test #2
+* Arguments: pqtest 2
++++ PASSED test #2
+
+* Running test #3
+* Arguments: pqtest 3
++++ PASSED test #3
+
+* Running test #4
+* Arguments: paths/airports.txt paths/flights.txt paths/query1.txt
++++ PASSED test #4
+
+* Running test #5
+* Arguments: paths/airports.txt paths/flights.txt paths/query2.txt
++++ PASSED test #5
+
+* Running test #6
+* Arguments: paths/airports.txt paths/flights.txt paths/query3.txt
++++ PASSED test #6
+
+* Passed 6/6 tests
